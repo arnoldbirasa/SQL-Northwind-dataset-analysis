@@ -1,0 +1,34 @@
+Here are a few challenging SQL questions to practice with
+
+DATASET : https://www.kaggle.com/datasets/emmanueltugbeh/northwind-orders-and-order-details
+
+
+QS.1	Calculate the total revenue for each customer in the second dataset.
+QS.2	Find the orders that were shipped after the required date in the second dataset.
+QS.3	Determine the average freight cost for each shipping method in the second dataset.
+QS.4	Identify the top 5 customers with the highest total number of orders in the second dataset.
+QS.5	Calculate the total revenue for each ship country in the second dataset.
+QS.6	Find the products with the highest total sales quantity in the first dataset.
+QS.7	Determine the average days taken to ship orders for each ship country in the second dataset.
+QS.8	Identify the employee with the highest total sales revenue in the first dataset.
+QS.9	Calculate the total revenue for each ship city in the second dataset.
+QS.10	Find the orders with the highest unit price in the first dataset.
+QS.11	Identify the orders with the longest duration between order date and shipped date in the second dataset.
+QS.12	Determine the average discount percentage applied per order in the first dataset.
+QS.13	Calculate the total revenue for each ship postal code in the second dataset.
+QS.14	Find the products with the lowest total sales quantity in the first dataset.
+QS.15	Identify the orders with the shortest duration between required date and shipped date in the second dataset.
+QS.16	Determine the percentage of late shipments for each ship country in the second dataset.
+QS.17	Calculate the total revenue for each ship region in the second dataset.
+QS.18	Find the customers who have placed orders for products with the highest unit prices in the first dataset.
+QS.19	Identify the orders with the highest total freight cost in the second dataset.
+QS.20	Calculate the total revenue for each ship via method in the second dataset.
+QS.21	Determine the percentage of orders with a discount applied in the first dataset.
+QS.22	Find the customers who have placed the most orders in the second dataset.
+QS.23	Identify the top 5 highest products based on revenue in the first dataset.
+QS.24	Calculate the total revenue for each order date in the second dataset.
+QS.25	Determine the average discount percentage applied for each product in the first dataset.
+QS.26	Find the customers who have experienced the highest freight costs in the second dataset.
+QS.27	Identify the employees who have processed the highest total number of orders in the second dataset.
+QS.28	Find the total revenue for each product in the dataset.
+
